@@ -1,0 +1,28 @@
+{
+    "name": "melisplatform/melis-tool-creator-lumen",
+    "description" : "Melis Tool Creator Lumen",
+    "homepage": "https://github.com/melisplatform/melis-tool-creator-lumen",
+    "support": {
+        "email": "contact@melistechnology.com",
+        "source": "https://github.com/melisplatform/melis-tool-creator-lumen",
+        "issues": "https://github.com/melisplatform/melis-tool-creator-lumen/issues"
+    },
+    "authors": [
+        {
+            "name": "Melis Technology",
+            "email": "contact@melistechnology.com",
+            "homepage": "https://www.melistechnology.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "melisplatform/melis-tool-creator" : "*",
+        "melisplatform/melis-platform-framework-lumen" : "*",
+        "melisplatform/melis-platform-framework-lumen-tool-creator" : "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "MelisToolCreatorLumen\\": "src/"
+        }
+    }
+}
