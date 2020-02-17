@@ -2,6 +2,8 @@
     "name": "melisplatform/melis-tool-creator-lumen",
     "description" : "Melis Tool Creator Lumen",
     "homepage": "https://github.com/melisplatform/melis-tool-creator-lumen",
+    "type": "melisplatform-module",
+    "license": "OSL-3.0",
     "support": {
         "email": "contact@melistechnology.com",
         "source": "https://github.com/melisplatform/melis-tool-creator-lumen",
@@ -15,6 +17,18 @@
             "role": "Developer"
         }
     ],
+    "keywords": [
+        "cms",
+        "melis",
+        "zf2",
+        "module"
+    ],
+    "extra": {
+        "module-name": "MelisToolCreatorLumen",
+        "dbdeploy": false,
+        "melis-site": false,
+        "melis-module-category": "core"
+    },
     "require": {
         "melisplatform/melis-tool-creator" : "*",
         "melisplatform/melis-platform-framework-lumen" : "*",
