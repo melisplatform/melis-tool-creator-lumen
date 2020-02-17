@@ -8,6 +8,11 @@
 
 return [
     'tool-creator-third-party-frameworks' => [
-        'lumen'
+        'lumen',
+    ],
+    'third-party-framework' => [
+        'index-path' => [
+            '/Lumen/public/index.php'
+        ]
     ]
 ];
