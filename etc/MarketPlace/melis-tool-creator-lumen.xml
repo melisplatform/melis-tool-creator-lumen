@@ -8,4 +8,11 @@
 		<mp_maintainers>melisplatform</mp_maintainers>
 		<mp_group>Melis Core</mp_group>
 	</package_info>
+	<package_images>
+		<img_1>
+			<mpi_image_title>MelisToolCreator Lumen</mpi_image_title>
+			<mpi_image_file>lumen.jpg</mpi_image_file>
+			<mpi_image_main>1</mpi_image_main>
+		</img_1>
+	</package_images>
 </melis-tool-creator-lumen>
