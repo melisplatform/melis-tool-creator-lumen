@@ -31,9 +31,9 @@
     },
     "require": {
         "melisplatform/melis-tool-creator": "*",
-        "melisplatform/melis-platform-framework-lumen": "dev-migrate/laminas as 4.0",
+        "melisplatform/melis-platform-framework-lumen": "dev-migrate/laminas",
         "melisplatform/melis-platform-frameworks": "*",
-        "melisplatform/melis-platform-framework-lumen-tool-creator": "dev-migrate/laminas as 4.0"
+        "melisplatform/melis-platform-framework-lumen-tool-creator": "dev-migrate/laminas"
     },
     "autoload": {
         "psr-4": {
