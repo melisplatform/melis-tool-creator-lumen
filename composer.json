@@ -30,10 +30,10 @@
         "melis-module-category": "core"
     },
     "require": {
-        "melisplatform/melis-tool-creator": "^4.0",
-        "melisplatform/melis-platform-framework-lumen": "^4.0",
-        "melisplatform/melis-platform-frameworks": "^4.0",
-        "melisplatform/melis-platform-framework-lumen-tool-creator": "^4.0"
+        "melisplatform/melis-tool-creator": "^5.0",
+        "melisplatform/melis-platform-framework-lumen": "^5.0",
+        "melisplatform/melis-platform-frameworks": "^5.0",
+        "melisplatform/melis-platform-framework-lumen-tool-creator": "^5.0"
     },
     "autoload": {
         "psr-4": {
